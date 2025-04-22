@@ -1,0 +1,3 @@
+[submodule "submodules/project"]
+	path = submodules/project
+	url = https://github.com/bhu1421/Housing-Data-Analysis-and-Prediction
